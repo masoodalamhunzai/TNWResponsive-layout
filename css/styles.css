@@ -129,7 +129,6 @@ body{
 }
 #slider .slider-wrapper .slider-news .slider-news-1 .news1-details .news1-reporter  p::after{
     content: '\B7';
-        margin: 0 10px;
 }
 #slider .slider-wrapper .slider-news .slider-news-1 .news1-details .news1-time{
     flex: 1;
