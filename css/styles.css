@@ -107,6 +107,8 @@ body{
 #slider .slider-wrapper .slider-news .slider-news-1 .news1-highlights a:hover{
     color: #f42;
     transition: 0.1s;
+    text-decoration: underline;
+    text-decoration-color:#ff44227a;
 }
 
 #slider .slider-wrapper .slider-news .slider-news-1 .news1-details{
@@ -166,6 +168,8 @@ body{
 #slider .slider-wrapper .slider-news .slider-news-2 .news2-highlights h2 a:hover{
     color: #f42;
     transition: 0.1s;
+    text-decoration: underline;
+    text-decoration-color:#ff44227a;
 }
 #slider .slider-wrapper .slider-news .slider-news-2 .news2-details{
     display: flex;
@@ -225,6 +229,8 @@ body{
 #slider .slider-wrapper .slider-news .slider-news-3 .news3-highlights h2 a:hover{
     color: #f42;
     transition: 0.1s;
+    text-decoration: underline;
+    text-decoration-color:#ff44227a;
 }
 #slider .slider-wrapper .slider-news .slider-news-3 .news3-details{
     display: flex;
@@ -284,6 +290,8 @@ body{
 #slider .slider-wrapper .slider-news .slider-news-4 .news4-highlights h2 a:hover{
     color: #f42;
     transition: 0.1s;
+    text-decoration: underline;
+    text-decoration-color:#ff44227a;
 }
 #slider .slider-wrapper .slider-news .slider-news-4 .news4-details{
     display: flex;
@@ -344,6 +352,8 @@ body{
 #slider .slider-wrapper .slider-news .slider-news-5 .news5-highlights h2 a:hover{
     color: #f42;
     transition: 0.1s;
+    text-decoration: underline;
+    text-decoration-color:#ff44227a;
 }
 #slider .slider-wrapper .slider-news .slider-news-5 .news5-details{
     display: flex;
@@ -403,6 +413,8 @@ body{
 #slider .slider-wrapper .slider-news .slider-news-6 .news6-highlights h2 a:hover{
     color: #f42;
     transition: 0.1s;
+    text-decoration: underline;
+    text-decoration-color:#ff44227a;
 }
 #slider .slider-wrapper .slider-news .slider-news-6 .news6-details{
     display: flex;
@@ -461,6 +473,8 @@ body{
 #slider .slider-wrapper .slider-news .slider-news-7 .news7-highlights h2 a:hover{
     color: #f42;
     transition: 0.1s;
+    text-decoration: underline;
+    text-decoration-color:#ff44227a;
 }
 #slider .slider-wrapper .slider-news .slider-news-7 .news7-details{
     display: flex;
@@ -520,6 +534,8 @@ body{
 #slider .slider-wrapper .slider-news .slider-news-8 .news8-highlights h2 a:hover{
     color: #f42;
     transition: 0.1s;
+    text-decoration: underline;
+    text-decoration-color:#ff44227a;
 }
 #slider .slider-wrapper .slider-news .slider-news-8 .news8-details{
     display: flex;
