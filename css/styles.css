@@ -4,8 +4,8 @@ body{
     font-family: 'Raleway';
 }
 #header{
-    background-color: #112e3e;
-    box-shadow: 0 0 32px 0 rgb(68, 63, 61);
+    background-color: #011d2c;
+    box-shadow: 0 0 20px 0 rgb(17, 17, 18);
 }
 #header .header-wrapper{
     display: flex;
