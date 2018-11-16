@@ -15,7 +15,7 @@ body{
 }
 #header .header-wrapper .header-logo{
     display: flex;
-    padding-left: 2rem;
+    padding-left: 1rem;
 }
 #header .header-wrapper .header-logo img{
     width: 8rem;
@@ -28,7 +28,6 @@ body{
     transition: 3s;
 }
 #header .header-wrapper .header-nav{
-    padding-right:1rem; 
 }
 #header .header-wrapper .header-nav ul{
    list-style-type: none;
@@ -49,7 +48,6 @@ body{
    opacity: 1;
    transition: 2s;
 }
-
 
 #slider{
     display: flex;
